@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="viewport" content="initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" /><meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" /><meta name="mobile-web-app-capable" content="yes" /><meta name="apple-mobile-web-app-capable" content="yes" /><meta name="apple-mobile-web-app-status-bar-style" content="black" /><meta name="apple-mobile-web-app-title" content="Google+" /><link rel="icon" sizes="128x128" href="//ssl.gstatic.com/s2/oz/images/icon/gplus_128.png" /><link rel="icon" sizes="196x196" href="//ssl.gstatic.com/s2/oz/images/icon/gplus_196.png" /><link rel="apple-touch-icon" sizes="60x60" href="//ssl.gstatic.com/s2/oz/images/icon/gplus_60s.png" /><link rel="apple-touch-icon" sizes="76x76" href="//ssl.gstatic.com/s2/oz/images/icon/gplus_76s.png" /><link rel="apple-touch-icon" sizes="120x120" href="//ssl.gstatic.com/s2/oz/images/icon/gplus_120s.png" /><link rel="apple-touch-icon" sizes="152x152" href = "//ssl.gstatic.com/s2/oz/images/icon/gplus_152s.png" /><title>Google+</title><base href="https://plus.google.com/"><link rel="stylesheet" type="text/css" href="/_/scs/apps-static/_/ss/k=oz.mobile_basic_oz_js.-xaqxs5ytrpbv.L.X.O/m=mb_oz_gss/am=ACBN/d=1/rs=AItRSTP1RCSLb2rBDSXAu_nEn_6ce5rqkw">
+        <style>
+          @font-face {
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            src: url(//ssl.gstatic.com/fonts/roboto/v8/xZQOmYg4x3YaWkTJi1kErvesZW2xOQ-xsNqO47m55DA.woff) format('woff');
+          }
+          @font-face {
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            src: url(//ssl.gstatic.com/fonts/roboto/v8/xypMPkk3qWn0aVtKdo69mQLUuEpTyoUstqEm5AMlJo4.woff) format('woff');
+          }
+          @font-face {
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 300;
+            src: url(//ssl.gstatic.com/fonts/roboto/v8/wdhR8z_EejC7uAMUf1gPYgLUuEpTyoUstqEm5AMlJo4.woff) format('woff');
+          }
+
+          body {
+            font-family: Roboto, Arial, Helvetica, sans-serif;
+          }
+
+          textarea {
+            font-family: Roboto, Arial, Helvetica, sans-serif;
+          }
+        </style>
+      <script type="text/javascript">(function(){(function(){function e(a){this.t={};this.tick=function(a,c,b){var d=void 0!=b?b:(new Date).getTime();this.t[a]=[d,c];if(void 0==b)try{window.console.timeStamp("CSI/"+a)}catch(e){}};this.tick("start",null,a)}var a;window.performance&&(a=window.performance.timing);var f=a?new e(a.responseStart):new e;window.jstiming={Timer:e,load:f};if(a){var c=a.navigationStart,d=a.responseStart;0<c&&d>=c&&(window.jstiming.srt=d-c)}if(a){var b=window.jstiming.load;0<c&&d>=c&&(b.tick("_wtsrt",void 0,c),b.tick("wtsrt_",
+"_wtsrt",d),b.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),b&&0<c&&(b.tick("_tbnd",void 0,window.chrome.csi().startE),b.tick("tbnd_","_tbnd",c))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,b&&0<c&&(b.tick("_tbnd",void 0,window.external.startE),b.tick("tbnd_","_tbnd",c))),a&&(window.jstiming.pt=a)}catch(g){}})();})();
+var loadTimer = new window.jstiming.Timer(); loadTimer.name = 'mobile_basic_profile_about_load'; function csiInit() {loadTimer.tick('ol'); window.jstiming.report(loadTimer, {e:"NoX"});}</script><script type="text/javascript">function navIfNotButton(event, dest){var n = event.toElement; for (var i = 0;i < 4;i++){if (!n){break;}if (n.nodeName == 'A' || n.nodeName == 'BUTTON' || (n.classList && n.classList.contains('THPu9b'))){return;}n = n.parentElement;}window.location.href=dest;}</script><input type="text" name="hist_state" id="hist_state" style="display:none;"><script type="text/javascript">
+          var CLOSURE_NO_DEPS = true;
+          var CLOSURE_DEFINES = {'goog.MODIFY_FUNCTION_PROTOTYPES': false, 'goog.DEBUG': true};
+        window.MB_authUser = '0';window.MB_view = '25';</script><script id="base-js" src="/_/scs/apps-static/_/js/k=oz.mobile_basic_oz_js.zh_CN.su4ctM3bBMg.O/m=mb_oz_js/am=ACBN/rt=j/d=1/t=zcms/rs=AItRSTNHf_wanP3xamLq5pynMgaQRFoZfw" type="text/javascript"></script></head><body onLoad="csiInit()"class="Qi"jscontroller="i9MV1e" jsaction="rcuQ6b:rcuQ6b"><div id="PAGE" class=" cH wRa Oxa"><script>var AF_initDataKeys = ["1"]
+; var AF_dataServiceRequests = {}; var AF_initDataChunkQueue = []; var AF_initDataCallback; var AF_initDataInitializeCallback; if (AF_initDataInitializeCallback) {AF_initDataInitializeCallback(AF_initDataKeys, AF_initDataChunkQueue, AF_dataServiceRequests);}if (!AF_initDataCallback) {AF_initDataCallback = function(chunk) {AF_initDataChunkQueue.push(chunk);};}</script><div class="dH" id="87"><a href="/app/basic/stream?cbp=52hpwc9xy47h&amp;sview=25&amp;cid=5&amp;soc-app=115&amp;soc-platform=1" class="zRa"><div class="tla"><div role="presentation" class="Gu vEb W0a"></div></div><div class="tla"><div role="presentation" class="Gu xEb g1a"></div></div></a><div class="yRa"><a id="204" class="QEb" href="https://accounts.google.com/ServiceLogin?service=oz&amp;hl=zh-CN&amp;ltmpl=tier2gplus&amp;btmpl=mobile_tier2&amp;continue=https://plus.google.com/app/basic/%2BSmashingMagazine?gpsrc%3Dgpmobile:tier23"><div class="ERa cEb xla">加入 Google+</div></a><span class="Kxa"><div class="cMd eec HGa VGRwM" data-isfollow="1" data-owner="116812091267698107544" data-ownername="Smashing Magazine"data-ownergender="unknown"data-viewergender="other" data-circlecount="0"><a class="c4QUad ClNegb oRa oOSIuf" href="/app/basic/116812091267698107544/add?cbp=1537g9hef3g61&amp;sview=25&amp;cid=5&amp;soc-app=115&amp;soc-platform=1&amp;spath=/app/basic/%2BSmashingMagazine"><div class="QkiXVb" jsname="fmcmS">关注</div></a><form method="post" action="/app/basic/a/116812091267698107544/follow?cbp=1h9a8xv4umbn0&amp;sview=25&amp;cid=5&amp;soc-app=115&amp;soc-platform=1&amp;spath=/app/basic/%2BSmashingMagazine" class="QBk9md"><input type="hidden" name="at" value="null" /><button type="submit" class="c4QUad ClNegb GGa" value="0" name= "buttonPressed"><div class="QkiXVb" jsname="fmcmS">关注</div></button></form></div></span></div><div class="wEb"><div class="z8">Smashing Magazine <div role="presentation" class="Gu Bja"></div></div></div></div><div class="Nxa"><div class="LKkJE"></div><div class="nCT5Yd">正在加载</div></div><div class="o2" id="mainContent"><table role="presentation" class="eEb"><tr><td width="33.333333333333336%" class="x4 sn"><div class="uRa" id="20">简介</div></td><td width="33.333333333333336%" class="x4"><a href="/app/basic/116812091267698107544/posts?cbp=1537g9hef3g61&amp;sview=25&amp;cid=5&amp;soc-app=115&amp;soc-platform=1" id="18"><div class="wla">信息</div></a></td><td width="33.333333333333336%" class="rfa"><a href="/app/basic/116812091267698107544/photos?cbp=18u3aifxa218g&amp;sview=25&amp;cid=5&amp;soc-app=115&amp;soc-platform=1&amp;pgpnum=1" id="19"><div class="wla">照片</div></a></td></tr></table><div class="Gxa"><div class="K3 QJwXXd"><div class="rpc"><div class="spc"><img class="tpc" src="https://lh3.googleusercontent.com/-nxQabxmsmO0/UwX4LyHSHrI/AAAAAAAAAz0/6buK3ji-4Q0/s630-fcrop64=1,4ef50000ffc5ffff/googleplus.png" /></div><div class="cpc"><div class="KUmmJf"></div><div class="T8a"><div id="85" class="apc"><a href="/app/basic/photos/116812091267698107544/album/profile?cbp=5z16mqe7z7x2&amp;sview=25&amp;cid=5&amp;soc-app=115&amp;soc-platform=1&amp;pgpnum=1&amp;spath=/app/basic/%2BSmashingMagazine"><img src="//lh5.googleusercontent.com/-a41KXDDY22k/AAAAAAAAAAI/AAAAAAAAA3g/0sg-WHwP038/s104-p-no/photo.jpg" class="Zoc" /></a></div></div><div class="U8a"><a href="/app/basic/116812091267698107544/share?cbp=17ofxg1pe7p0w&amp;sview=25&amp;cid=5&amp;soc-app=115&amp;soc-platform=1&amp;spath=/app/basic/%2BSmashingMagazine" class="aHa dpc"><div role="presentation" class="Gu EBa"></div></a></div></div></div><div class="ipc"><div class="jpc xMAIg"><div class="Mpc"><div role="presentation" class="Gu HBa"></div> <a href="http://www.smashingmagazine.com">http://www.smashingmagazine.com</a> <div role="presentation" class="Gu IBa"></div></div></div><div class="WH0GUe"><span>29,258</span> 位关注者<span class="NZSZif">&#124;</span><span>5,535,647</span> 次查看</div></div></div><div class="K3 QIro7" id="86"><div class="y8a pX"><h1 class="fpc">故事</h1><div class="Xpc Ypc" id="170"><span class="hpc">个性宣言</span><span class="gpc"> An online magazine for professional Web designers and developers with focus on valuable techniques, best practices and useful resources for the Web...</span></div><div class="Xpc fRVvke"><span class="hpc">介绍</span><span class="gpc" id="359"> <span>Smashing Magazine is an online magazine for professional Web designers and developers with focus on valuable techniques, best practices and useful resources for the Web design community.</span><div><div><br></div><div><b>The Smashing Family</b></div><div><b><br></b></div><div>Vitaly Friedman (founder, editor-in-chief), Sven Lennartz (founder, runs the business), Iris Ljesnjanin (editor), Ricardo Gimenes (Illustrator), Robin Schulz (Web developer), Stephan Poppe (PR &amp; Marketing), Andrew Rogerson (content manager), Talita Telma (product development), Eugenia Hermann (office manager), Lisa Meier (office assistant), Jan Constantin (office assistant), Inge Emmler (support), Ursula Schwientek (support), Christiane Rosenberger (research) and Elja Friedman (research).</div><div><br></div><div><b>Other sites and services produced by Smashing Media GmbH</b></div><div><ul><li><a href="http://www.smashingmagazine.com/ebooks">Smashing eBooks</a> - <span>We care about quality content and work hard to make the reading experience of our readers as convenient as possible. Our articles on </span><strong>Web design and Web development</strong><span> are presented in a regular way on Smashing Magazine, but they are all the more carefully edited, reviewed and curated for our ad-free eBooks—according to our quality standards and publishing policy.</span></li></ul><ul><li><a href="http://shop.smashingmagazine.com/">The Shop</a> (Our Book Store) - The Smashing Shop features bundle deals with some of the hottest Smashing Magazine publications, including eBooks on coding, WordPress, Web Design and more as well as the printed and digital <b>Smashing Books #1, #2</b> and the brand new <b>Smashing Book #3</b>.</li></ul></div><div><ul><li><a href="http://jobs.smashingmagazine.com/">Smashing Jobs</a> - The Smashing Job Board is where you want your job search to begin, no matter if you are looking or offering.</li></ul></div><div>Thank you for adding us to your circle and your +1s ;-)</div></div></span></div></div></div><div class="K3 G90opf"><div class="y8a pX"><h1 class="fpc">人脉</h1><div id="393" class="hpc">此人圈子中的人 <span class="gpc">6</span></div><div id="392" class="hpc">圈了此人的人 <span class="gpc">29258</span></div></div></div><div class="K3 guMDf"><div class="y8a pX"><h1 class="fpc">联系信息</h1><div class="ppc hVTAtf"><h2 class="Wpc">首页</h2><hr class="Yoc" /><div class="Oqa p0MTVd"><h3 class="f9a">电子邮件</h3><div class="g9a"><a href="mailto:feedback@smashingmagazine.com" class="Fy4Ayf">feedback@smashingmagazine.com</a></div></div></div></div></div><div class="K3 Z8a"><div class="y8a pX"><h1 class="fpc">链接</h1><div class="Npc dSOFDc"><h3 class="Ppc">Google+ 网址</h3><span class="Qpc"> | </span><div class="Mpc"><span class="Opc"></span><a href="/app/basic/+SmashingMagazine?cbp=19d0e8mideylj&amp;sview=25&amp;cid=5&amp;soc-app=115&amp;soc-platform=1">google.com/+SmashingMagazine</a></div></div><div class="Npc IhIVte"><h3 class="Ppc">网站</h3><span class="Qpc"> | </span><div class="Mpc"><img src="//s2.googleusercontent.com/s2/favicons?domain=www.smashingmagazine.com&amp;alt=p" class="Opc"><a href="http://www.smashingmagazine.com">http://www.smashingmagazine.com</a> <div role="presentation" class="Gu IBa"></div></div></div><div class="Npc"><div class="Mpc"><img src="//s2.googleusercontent.com/s2/favicons?domain=rss1.smashingmagazine.com&amp;alt=p" class="Opc"><a href="http://rss1.smashingmagazine.com/feed/">RSS Feed</a></div></div><div class="Npc"><div class="Mpc"><img src="//s2.googleusercontent.com/s2/favicons?domain=www.twitter.com&amp;alt=p" class="Opc"><a href="http://www.twitter.com/smashingmag">Twitter feed</a></div></div><div class="Npc"><div class="Mpc"><img src="//s2.googleusercontent.com/s2/favicons?domain=www.facebook.com&amp;alt=p" class="Opc"><a href="http://www.facebook.com/smashmag">Facebook</a></div></div><div class="Npc"><div class="Mpc"><img src="//s2.googleusercontent.com/s2/favicons?domain=www.smashingmagazine.com&amp;alt=p" class="Opc"><a href="http://www.smashingmagazine.com/ebooks/">Smashing eBooks</a></div></div></div></div></div><script>AF_initDataCallback({key: '1', isError:  false , hash: '1', data:["/c/","docs.google.com/picker",0,[["fb053a75"]
+,["e1a3ade5","99",1]
+,["49d8bf74","",2]
+,["3075e8a9","pages/settings/plus",2]
+,["5ad7396c","pages/settings/admin",2]
+,["a0c13a02","notifications/all",2]
+,["dff71358"]
+,["345ff995"]
+,["b60ba4d6","//www.youtube.com/embed/l0qfHq_Qva8?wmode\u003dopaque",2]
+,["58cc0ecc","100",1]
+,["2837709a","250",1]
+,["12881b0b"]
+,["ca2c7f4"]
+,["5eca3fd8"]
+,["21fa5ea3"]
+,["3bdfc36"]
+,["79c5a838","0",1]
+,["53905784"]
+,["361a82fe","20",1]
+,["acbf0ffc","6",1]
+,["30dc41c4"]
+,["fc092955","0",1]
+,["5cd08d3e"]
+,["fc2ba998"]
+,["d331e860"]
+,["a7258d35","5",1]
+,["a8e523a3","1000",1]
+,["96a53e1a","80",1]
+,["d6697028","//www.youtube.com/embed/GUywKEtXX2c",2]
+,["d582a4f8","25",1]
+,["66c83ef2","",2]
+,["2b8b0743","10",1]
+,["4dc524c0","import,suggest,follow,profile",2]
+,["7615555e","100",1]
+,["c05ef682","10",1]
+,["e975220","10",1]
+,["f892a1f6","750",1]
+,["da271db1","//ssl.gstatic.com/s2/oz/images/hangouts/hangouts_onair_promo_live-dffa4529a32c693283924cd12ffbc4e4.png",2]
+,["f85d7a75","//ssl.gstatic.com/s2/oz/images/hangouts/hangouts_onair_promo_recorded-7453f2c3b2160c984e5cd7c017effd49.png",2]
+,["dc47b7e1","https://www.google.com",2]
+,["48b332f1","//www.google.com/maps?layer\u003dc\u0026ie\u003dUTF8\u0026source\u003dembed\u0026output\u003dsvembed",2]
+,["b549d814","10000",1]
+,["4ca66953","300000",1]
+,["242aea5","5000",1]
+,["1ddddfd5","1.0",1]
+,["300feef9","0.5",1]
+,["bf3c2a2d","0.05",1]
+,["1ea69d6d","-1",1]
+,["9ea1411d","0",1]
+,["e3b2dcfe"]
+,["63c8aa1c","43200000",1]
+,["b3d65284","1800000",1]
+,["32a36dc7","15000",1]
+,["c40522f","2000",1]
+,["aaf52903","0.3",1]
+,["8c85289b","2",1]
+,["4ea6b8e3","2000",1]
+,["b2186565","400",1]
+,["c1daf5cd","10",1]
+,["703730af","15",1]
+,["463afe84","10",1]
+,["5a10b9d9","//ssl.gstatic.com/s2/oz/images/notifications/jingles_eb4e5306b38f83915d82034fa93390d9/",2]
+,["18f1cdf9","250",1]
+,["86f3341a","10",1]
+,["8012fae7","20",1]
+,["a9a3e797","25",1]
+,["b378b70a","25",1]
+,["a68807db"]
+,["5715347d"]
+,["a2e5195e"]
+,["2f65daed"]
+,["6f8cc541"]
+,["44a20323"]
+,["7372f164","//www.youtube.com/watch?v\u003d",2]
+,["87a88a20"]
+,["1a3786fb","2000",1]
+,["90c3e763"]
+,["a812ec1b"]
+,["f912105"]
+,["887aa6bb"]
+,["2bca337"]
+,["96942408","10",1]
+,["12885cf2","40",1]
+,["c4a65487","3",1]
+,["cfa495ac"]
+,["3045ca20"]
+,["25b05df1","60",1]
+,["7a92f75c","20",1]
+,["a3a515a9"]
+,["ef384339"]
+,["1ca53ec5"]
+,["e3d2bc63"]
+,["de7e3d01"]
+,["33ddeed3"]
+,["590dd7d6"]
+,["dd75ff49","0",1]
+,["5cf6e450"]
+,["c696ffc3","//www.youtube.com/embed/bo390-3ohW4",2]
+,["c5eb23d7","//www.youtube.com/embed/ylZg43Meick",2]
+,["62f9e96d","//www.youtube.com/embed/8aCYZ3gXfy8",2]
+,["cada17ba"]
+,["f5caebd8","Widget[gmail.rhs],Widget[gmail.plusnotifycard],Widget[gmail.pview],Widget[gmail.rhspp]",2]
+,["92cebb77"]
+,["d59d524b"]
+,["ed2ddf08","2500",1]
+,["56af9af6","1000",1]
+,["b07d93ca","500",1]
+,["a05aeb35","500",1]
+,["2125014e","600",1]
+,["371ccd09","0.025",1]
+,["7ecdfea5"]
+,["cd1b1d5b"]
+,["4666ce46"]
+,["6005610c","40",1]
+,["d8e528b3","200",1]
+,["87754f55"]
+,["61664e75"]
+,["3b696cb2"]
+,["f5574d41"]
+,["bdfc96d5"]
+,["9d102ad6"]
+,["109a38d3"]
+,["3b05207b","/ripples/details",2]
+,["2a7505e","1",1]
+,["269eceba","100",1]
+,["a45cf373","4",1]
+,["5e6ae07f","2",1]
+,["1d6b6a06","4",1]
+,["4ab88f97","4",1]
+,["554ac1cc","3",1]
+,["5c19a49e","2",1]
+,["15f3a3a0","8",1]
+,["787163ac","4",1]
+,["9f44a2f3","8",1]
+,["520ff8c4","5",1]
+,["2c833439","5",1]
+,["98f0a38b","4",1]
+,["8ed40ce0","20",1]
+,["f28ca27a","44",1]
+,["da72c0db","500",1]
+,["a181a097","3",1]
+,["9f844e10"]
+,["65b9aa26","google.com",2]
+,["1ec68444","youtube.com/c",2]
+,["b350369c"]
+,["17475ad0"]
+,["88d90359","1000:3000:1000",2]
+,["c8595228","https://support.google.com/plus/?p\u003dplus_embeds",2]
+,["8246a126"]
+,["e4134668"]
+,["78b2e088"]
+,["4dd206c5"]
+,["54fe4774"]
+,["2fd776a9"]
+,["8d2087d6"]
+]
+,0,"","//ssl.gstatic.com/s2/oz/images/logo/1x/googleplus_color_33-d28e37b6be3328c1aab7a37fa108901f.png","https://accounts.google.com/ServiceLogin?service\u003doz\u0026hl\u003dzh-CN\u0026ltmpl\u003dtier2gplus\u0026btmpl\u003dmobile_tier2\u0026continue\u003dhttps://plus.google.com/app/basic/%2BSmashingMagazine?gpsrc%3Dgpmobile:tier23",0,"","",,,,"https://csi.gstatic.com/csi",,,,"https://talkgadget.google.com/talkgadget/","/complete/search","plus.url.google.com","https://plus.google.com/hangouts/_/",[102,100,97,79,109,45,17,117,115,81,127,124,122,61,30]
+,,,"https://accounts.google.com/TOS?hl\u003dzh-CN",,"https://plus.google.com/hangouts/_/extras/",,"https://plus.google.com/hangouts/_/stream/","",1411544495104,"picasaweb.google.com","https://www.google.com/contacts","cn","http://www.google.com/intl/zh-CN/+/learnmore/forum/","http://www.google.com/intl/zh-CN/+/policy/content.html",,"http://www.google.com/intl/zh-CN/+/policy/",,"http://www.google.com/intl/zh-CN/help/terms_maps.html","https://accounts.google.com/SignUp?service\u003doz\u0026hl\u003dzh-CN\u0026continue\u003dhttps://plus.google.com/app/basic/%2BSmashingMagazine"]
+});</script><script type="text/javascript">(function(){if(window.jstiming){window.jstiming.a={};window.jstiming.b=1;var m=function(c,b,e){var a=c.t[b],f=c.t.start;if(a&&(f||e))return a=c.t[b][0],void 0!=e?f=e:f=f[0],a-f},p=function(c,b,e){var a="";window.jstiming.srt&&(a+="&srt="+window.jstiming.srt,delete window.jstiming.srt);window.jstiming.pt&&(a+="&tbsrt="+window.jstiming.pt,delete window.jstiming.pt);try{window.external&&window.external.tran?a+="&tran="+window.external.tran:window.gtbExternal&&window.gtbExternal.tran?a+="&tran="+window.gtbExternal.tran():
+window.chrome&&window.chrome.csi&&(a+="&tran="+window.chrome.csi().tran)}catch(f){}var d=window.chrome;if(d&&(d=d.loadTimes)){d().wasFetchedViaSpdy&&(a+="&p=s");if(d().wasNpnNegotiated){var a=a+"&npn=1",h=d().npnNegotiatedProtocol;h&&(a+="&npnv="+(encodeURIComponent||escape)(h))}d().wasAlternateProtocolAvailable&&(a+="&apa=1")}var k=c.t,q=k.start,d=[],h=[],g;for(g in k)if("start"!=g&&0!=g.indexOf("_")){var l=k[g][1];l?k[l]&&h.push(g+"."+m(c,g,k[l][0])):q&&d.push(g+"."+m(c,g))}delete k.start;if(b)for(var n in b)a+=
+"&"+n+"="+b[n];(b=e)||(b="https:"==document.location.protocol?"https://csi.gstatic.com/csi":"http://csi.gstatic.com/csi");return[b,"?v=3","&s="+(window.jstiming.sn||"oz")+"&action=",c.name,h.length?"&it="+h.join(","):"",a,"&rt=",d.join(",")].join("")},r=function(c,b,e){c=p(c,b,e);if(!c)return"";b=new Image;var a=window.jstiming.b++;window.jstiming.a[a]=b;b.onload=b.onerror=function(){window.jstiming&&delete window.jstiming.a[a]};b.src=c;b=null;return c};window.jstiming.report=function(c,b,e){if("prerender"==
+document.webkitVisibilityState){var a=!1,f=function(){if(!a){b?b.prerender="1":b={prerender:"1"};var d;"prerender"==document.webkitVisibilityState?d=!1:(r(c,b,e),d=!0);d&&(a=!0,document.removeEventListener("webkitvisibilitychange",f,!1))}};document.addEventListener("webkitvisibilitychange",f,!1);return""}return r(c,b,e)}};})();
+</script></div><script>var OZ_domReady = 1; if (window.OZ_start) {OZ_start();}</script></div></body></html>

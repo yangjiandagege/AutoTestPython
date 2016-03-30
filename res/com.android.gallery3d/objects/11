@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments for Smashing Magazine</title>
+	<atom:link href="http://www.smashingmagazine.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.smashingmagazine.com</link>
+	<description>For Professional Web Designers and Developers</description>
+	<lastBuildDate>Wed, 24 Sep 2014 06:32:40 +0200</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Comment on Designing A Rocket Icon In Adobe Fireworks by Michel Bozgounov</title>
+		<link>http://www.smashingmagazine.com/2014/09/23/designing-a-rocket-icon-in-adobe-fireworks/#comment-1231101</link>
+		<dc:creator><![CDATA[Michel Bozgounov]]></dc:creator>
+		<pubDate>Wed, 24 Sep 2014 06:32:40 +0000</pubDate>
+		<guid isPermaLink="false">http://www.smashingmagazine.com/?p=189142#comment-1231101</guid>
+		<description><![CDATA[Yeah, it&#039;s true, no further development... Nevertheless, in the next few months (or even a year or two), I think &lt;a href=&quot;http://www.smashingmagazine.com/2013/12/19/present-future-adobe-fireworks/&quot; rel=&quot;nofollow&quot;&gt;Fireworks will be okay&lt;/a&gt;. :-)
+
+Meanwhile, we should look for a new app that could possibly replace the powerful workflow that Fireworks always offered to user interface designers.]]></description>
+		<content:encoded><![CDATA[<p>Yeah, it&#8217;s true, no further development&#8230; Nevertheless, in the next few months (or even a year or two), I think <a href="http://www.smashingmagazine.com/2013/12/19/present-future-adobe-fireworks/" rel="nofollow">Fireworks will be okay</a>. :-)</p>
+<p>Meanwhile, we should look for a new app that could possibly replace the powerful workflow that Fireworks always offered to user interface designers.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Understanding The Difference Between Type And Lettering by alan</title>
+		<link>http://www.smashingmagazine.com/2013/01/17/understanding-difference-between-type-and-lettering/#comment-1231061</link>
+		<dc:creator><![CDATA[alan]]></dc:creator>
+		<pubDate>Wed, 24 Sep 2014 00:07:35 +0000</pubDate>
+		<guid isPermaLink="false">http://www.smashingmagazine.com/fonts/2013/01/17/understanding-difference-between-type-and-lettering/#comment-1231061</guid>
+		<description><![CDATA[I didn&#039;t like your answer.....it is useless..,.]]></description>
+		<content:encoded><![CDATA[<p>I didn&#8217;t like your answer&#8230;..it is useless..,.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Prototyping For Better Products, Stronger Teams And Happier Clients by KE</title>
+		<link>http://www.smashingmagazine.com/2014/09/19/prototyping-for-better-products-stronger-teams-and-happier-clients/#comment-1231055</link>
+		<dc:creator><![CDATA[KE]]></dc:creator>
+		<pubDate>Tue, 23 Sep 2014 21:59:50 +0000</pubDate>
+		<guid isPermaLink="false">http://www.smashingmagazine.com/?p=201618#comment-1231055</guid>
+		<description><![CDATA[My team recently worked with Happy Cog who uses Macaw, and they turned us onto the idea of prototyping. So I&#039;ve been trying out a few tools. I used Flash years ago and while being more visually-oriented, I found Actionscript a little painful. So my goal is to find an intuitive program with a friendly interactions interface that requires little to no coding:
+
+1. Macaw - I found it good for creating simple responsive mocks, but there are little to no animation options. It was also buggy since it&#039;s a relatively new release. A few tutorials for basic clicks and transitions, but very few complex interaction examples.
+2. Webflow - Definitely a step-up in animation options, but there&#039;s a bit of a learning curve.
+3. Axure - The interface felt a little dated and I just didn&#039;t click wit

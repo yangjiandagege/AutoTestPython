@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Smashing Magazine</title>
+	<atom:link href="http://www.smashingmagazine.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.smashingmagazine.com</link>
+	<description>For Professional Web Designers and Developers</description>
+	<lastBuildDate>Wed, 24 Sep 2014 07:40:58 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Designing A Rocket Icon In Adobe Fireworks</title>
+		<link>http://www.smashingmagazine.com/2014/09/23/designing-a-rocket-icon-in-adobe-fireworks/</link>
+		<comments>http://www.smashingmagazine.com/2014/09/23/designing-a-rocket-icon-in-adobe-fireworks/#comments</comments>
+		<pubDate>Tue, 23 Sep 2014 09:00:36 +0000</pubDate>
+		<dc:creator><![CDATA[Fabio Benedetti]]></dc:creator>
+				<category><![CDATA[Fireworks]]></category>
+		<category><![CDATA[Graphics]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[Workflow]]></category>
+
+		<guid isPermaLink="false">http://www.smashingmagazine.com/?p=189142</guid>
+		<description><![CDATA[<table width="650"><tr><td width="650"><div style="width:650px;"><img src="http://statisches.auslieferung.commindo-media-ressourcen.de/advertisement.gif" alt="" border="0" /><br /><a href="http://auslieferung.commindo-media-ressourcen.de/random.php?mode=target&collection=smashing-rss&position=1" target="_blank"><img src="http://auslieferung.commindo-media-ressourcen.de/random.php?mode=image&collection=smashing-rss&position=1" border="0" alt="" /></a>&nbsp;<a href="http://auslieferung.commindo-media-ressourcen.de/random.php?mode=target&collection=smashing-rss&position=2" target="_blank"><img src="http://auslieferung.commindo-media-ressourcen.de/random.php?mode=image&collection=smashing-rss&position=2" border="0" alt="" /></a>&nbsp;<a href="http://auslieferung.commindo-media-ressourcen.de/random.php?mode=target&collection=smashing-rss&position=3" target="_blank"><img src="http://auslieferung.commindo-media-ressourcen.de/random.php?mode=image&collection=smashing-rss&position=3" border="0" alt="" /></a></div></td></tr></table><p>Many people know that Fireworks is a great tool for <a href="http://www.smashingmagazine.com/2013/08/26/mojo-motors-responsive-redesign-with-adobe-fireworks-part-1/">web design</a>, <a href="http://www.smashingmagazine.com/2012/07/03/interactive-prototypes-timesavers-adobe-fireworks/">prototyping</a> and <a href="http://www.smashingmagazine.com/2012/05/07/refining-designs-adobe-fireworks/">UI design</a>. But what about icon design? Icon design is a very specific skill that overlaps illustration, screen design and, of course, visual design. An icon designer needs to understand lighting, proportions and, most importantly, the context of the icon itself.</p>
+
+<p><a href="http://www.smashingmagazine.com/2014/09/23/designing-a-rocket-icon-in-adobe-fireworks"><img src="http://www.smashingmagazine.com/wp-content/uploads/2014/09/rocket-icon-design-opt.png" alt="Designing A Rocket Icon In Adobe Fireworks" title="Designing A Rocket Icon In Adobe Fireworks" width="500" height="333" /></a></p>
+
+<p>The BBC published an interesting article about icon design and <a href="http://en.wikipedia.org/wiki/Skeuomorph">skeuomorphism</a> one year ago, titled "<a href="http://www.bbc.co.uk/news/magazine-22840833">What Is Skeuomorphism?</a>" It’s definitely worth reading because it explains why icons often reflect the real world and the thinking behind it.</p><p>The post <a rel="nofollow" href="http://www.smashingmagazine.com/2014/09/23/designing-a-rocket-icon-in-adobe-fireworks/">Designing A Rocket Icon I
